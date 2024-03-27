@@ -347,6 +347,17 @@ Splits training data into folds
 Most common - 5 folds
 K folds = k number of folds = k folds cross validation
 
+3/12/2024 -
+
+Project Presentation
+
+3/19/2024 - 
+
+hotel_bookings_revised_NEW.csv
+Decision-Trees-Intro.ipynb
+Hyperparameter-Tuning-Elastic-Nets.ipynb
+
+
 
 
 
